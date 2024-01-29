@@ -12,7 +12,7 @@ When I wanted  a CLI to play with SurrealDB, I didn't know that there was one.
 The SurrealDB's online documentation suggests to install with npm or yarn.
 When I went to "npmjs" website, it did have some options which was kinda made me confused and so was a dead end.
 
-Only When I finished this "POC" that I created and went to find some SurrealDB query example, then I found the "surreal sql" command under "CLI Tool > SQL Command > Example Usage". This was the CLI I was looking for.
+Only When I finished this **"POC"** that I created and went to find some SurrealDB query example, then I found the "surreal sql" command under "CLI Tool > SQL Command > Example Usage". This was the CLI I was looking for.
 
 Tried it & compared it with my CLI's output.
 I see that my CLI gives me the Stats & and also gives a JSON Output.
