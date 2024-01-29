@@ -27,7 +27,7 @@ Thought it might help. And hence the upload.
   * Installation Manual: https://www.rust-lang.org/tools/install
 * Enter into the source folder and just run do a cargo run
   * Example: cargo run 127.0.0.1:8000 root root test test
-  * Syntax: cargo run <url> <username> <Password> <namespace> <database>
+  * Syntax: cargo run url username password namespace database
   * It does not show you a prompt. So just start Typing the command, to execute in surrealdb, and press enter to see the results.
 
 ## Bibliography
