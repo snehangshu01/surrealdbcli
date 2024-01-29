@@ -22,6 +22,11 @@ Thought it might help. And hence the upload.
 * Outputs in JSON Format
 * Includes the performance stats in the output.
 
+## How to Run
+* Install Rust
+  * Installation Manual: https://www.rust-lang.org/tools/install
+* Enter into the source folder and just run "cargo run"
+  * It does not show you a prompt. So just start Typing the command, to execute in surrealdb, and press enter to see the results.
 
 ## Bibliography
 The Sample of DB Connection was taken from : https://docs.surrealdb.com/docs/integration/sdks/rust
